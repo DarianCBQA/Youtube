@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'capybara','2.15'
+gem 'rspec'
+gem 'rspec-expectations'
+gem 'cucumber','3.2.0'
+gem 'selenium-webdriver'
